@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "lab8part2.h"
+#include "headerfile1.h"
 #include "liblab8part2.h"
 
 #define unoccupied 'U'
