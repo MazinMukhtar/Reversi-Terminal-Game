@@ -1,2 +1,2 @@
 # Reversi-Terminal-Game
-Reersi terminal game developed for APS105 (University of Toronto — Computer Fundamentals)
+Reversi terminal game developed for APS105 (University of Toronto — Computer Fundamentals)
